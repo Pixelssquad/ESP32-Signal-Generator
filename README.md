@@ -1,7 +1,7 @@
 Transforms an ESP32 into a signal generator, useful for testing oscilloscopes, study projects, tests, and experiments.
 Web interface; the assigned IP is transmitted over the serial port.
 It will also work in a version with an OLED display.
-Output pins: 25
+Output pin: 25
 -
 Trasforma un esp32 in un generatore di segnale, utile per testare oscilloscopi, per progetti studio, test ed esperimenti.
 Interfaccia WEB, l'ip assegnato viene trasmesso sulla seriale.
