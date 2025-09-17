@@ -118,7 +118,6 @@ const char index_html[] PROGMEM = R"rawliteral(
   <hr>
   <p>Onda attuale: <b>%WAVE%</b></p>
   <p>Frequenza impostata: <b>%FREQ%</b> Hz</p>
-  <p>Delay tra cicli: <b>%DELAY%</b> ms</p>
   <p>Risoluzione: <b>%TABLE%</b> campioni</p>
   <br>
   <button onclick="location.href='/setWave?type=sine'">Seno</button>
